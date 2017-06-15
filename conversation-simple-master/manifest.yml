@@ -1,0 +1,6 @@
+name: comp4970-rtb  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
+ env:
+    NPM_CONFIG_PRODUCTION: false
